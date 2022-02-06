@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "solc": "^0.8.11",
+    "web3": "^1.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
